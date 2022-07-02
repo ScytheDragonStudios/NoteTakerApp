@@ -1,0 +1,11 @@
+C:\Users\sdstu\OneDrive\Documents\C#\Blank App Project\NoteTakerApp\NoteTakerApp\bin\Debug\NoteTakerApp.exe.config
+C:\Users\sdstu\OneDrive\Documents\C#\Blank App Project\NoteTakerApp\NoteTakerApp\bin\Debug\NoteTakerApp.exe
+C:\Users\sdstu\OneDrive\Documents\C#\Blank App Project\NoteTakerApp\NoteTakerApp\bin\Debug\NoteTakerApp.pdb
+C:\Users\sdstu\OneDrive\Documents\C#\Blank App Project\NoteTakerApp\NoteTakerApp\obj\Debug\NoteTakerApp.csproj.AssemblyReference.cache
+C:\Users\sdstu\OneDrive\Documents\C#\Blank App Project\NoteTakerApp\NoteTakerApp\obj\Debug\NoteTakerApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\sdstu\OneDrive\Documents\C#\Blank App Project\NoteTakerApp\NoteTakerApp\obj\Debug\NoteTakerApp.Form1.resources
+C:\Users\sdstu\OneDrive\Documents\C#\Blank App Project\NoteTakerApp\NoteTakerApp\obj\Debug\NoteTakerApp.Properties.Resources.resources
+C:\Users\sdstu\OneDrive\Documents\C#\Blank App Project\NoteTakerApp\NoteTakerApp\obj\Debug\NoteTakerApp.csproj.GenerateResource.cache
+C:\Users\sdstu\OneDrive\Documents\C#\Blank App Project\NoteTakerApp\NoteTakerApp\obj\Debug\NoteTakerApp.csproj.CoreCompileInputs.cache
+C:\Users\sdstu\OneDrive\Documents\C#\Blank App Project\NoteTakerApp\NoteTakerApp\obj\Debug\NoteTakerApp.exe
+C:\Users\sdstu\OneDrive\Documents\C#\Blank App Project\NoteTakerApp\NoteTakerApp\obj\Debug\NoteTakerApp.pdb
